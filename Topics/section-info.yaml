@@ -10,3 +10,6 @@ content:
 - Named arguments
 - Constructors
 - Member functions
+- Object declarations
+- Companion object
+- Enum
