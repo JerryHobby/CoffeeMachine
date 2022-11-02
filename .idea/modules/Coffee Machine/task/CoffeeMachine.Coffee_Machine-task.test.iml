@@ -62,7 +62,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+  <component name="NewModuleRootManager">
     <output-test url="file://$MODULE_DIR$/../../../../Coffee Machine/task/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../Coffee Machine/task/src/test" />
